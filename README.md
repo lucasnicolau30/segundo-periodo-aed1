@@ -2,7 +2,7 @@
 
 [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-Read in: [Português](README.pt.md) | [English](README.md)
+Read in: [Português](README.pt.md) | English
 
 C exercises from the second semester of the Data Structures and Algorithms I course.
 
