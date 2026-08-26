@@ -2,7 +2,7 @@
 
 [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
-Leia em: [Português](README.pt.md) | [English](README.md)
+Leia em: Português | [English](README.md)
 
 Exercícios em C do segundo período da disciplina Estrutura de Dados e Algoritmos I.
 
